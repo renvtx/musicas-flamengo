@@ -90,7 +90,8 @@ section.img {
 }
 
 .img > p {
-    width: 350px;
+    min-width: 150px;
+    max-width: 350px;
     background-color: rgba(0, 0, 0, 0.733);
     border-radius: 10px;
     padding-left: 10px;
